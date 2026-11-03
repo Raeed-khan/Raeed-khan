@@ -21,83 +21,122 @@
 
 ---
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+## 👨‍💻 ABOUT ME
 
 <div align="center">
 
-# Raeed Khan
+<pre>
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║              R A E E D   K H A N                ║
+║                                                  ║
+║       CYBERSECURITY  |  ETHICAL HACKING          ║
+║                                                  ║
+║           DIGITAL SECURITY RESEARCH              ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+</pre>
 
-### CEH | Cybersecurity Enthusiast | BBA Student
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=CEH+%7C+CYBERSECURITY+ENTHUSIAST;BBA+STUDENT+%7C+UNIVERSITY+OF+BUNER;LINUX+%7C+NETWORKING+%7C+ETHICAL+HACKING;BUILDING+A+SAFER+DIGITAL+WORLD"/>
 
-Cybersecurity enthusiast from Pakistan with interests in Ethical Hacking, Linux Administration, Network Security, and Digital Safety.
+<br/>
 
-**Certificate ID:** `CWP25-1415021`
+`CERTIFICATE ID: CWP25-1415021`
 
-**Education:** Bachelor of Business Administration (BBA)
+**Cybersecurity Enthusiast from Pakistan**
 
-**University:** University of Buner
+Ethical Hacking • Linux Administration • Network Security • Digital Safety
 
 </div>
 
 ---
 
-<h2 align="center">🛡️ TECHNICAL SKILLS</h2>
+## 🛡️ TECHNICAL SKILLS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-111827?style=for-the-badge&logo=kalilinux"/>
-<img src="https://img.shields.io/badge/RHCSA-Linux%20Administration-CC0000?style=for-the-badge&logo=redhat"/>
-<img src="https://img.shields.io/badge/CCNA-Networking-1D4ED8?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CEH-CERTIFIED%20ETHICAL%20HACKER-00FF41?style=for-the-badge&labelColor=0D1117&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/RHCSA-LINUX%20ADMINISTRATION-CC0000?style=for-the-badge&labelColor=0D1117&logo=redhat"/>
+<img src="https://img.shields.io/badge/CCNA-NETWORKING-1D4ED8?style=for-the-badge&labelColor=0D1117&logo=cisco"/>
+<img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-3776AB?style=for-the-badge&labelColor=0D1117&logo=python"/>
+<img src="https://img.shields.io/badge/AWS-CLOUD%20COMPUTING-FF9900?style=for-the-badge&labelColor=0D1117&logo=amazonaws"/>
 
 </div>
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECT</h2>
+## 🚀 FEATURED PROJECTS
 
-### 🛡️ R-BOX — RF Awareness & Security Research
+<div align="center">
+
+### 🛡️ R-BOX
+**RF AWARENESS & SECURITY RESEARCH**
+
+</div>
 
 A hardware and firmware research project focused on RF spectrum awareness, wireless signal analysis, and cybersecurity research.
 
-### 💻 Other Projects
+**Other Development Projects**
 
-- Python Applications
-- BBA Calculator Pro
-- Management Systems
-- Linux & Networking Labs
+| Project | Category |
+|---|---|
+| Python Applications | Programming |
+| BBA Calculator Pro | Application Development |
+| Management Systems | Web Development |
+| Linux & Networking Labs | System Administration |
 
 ---
 
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raeed-khan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raeed-khan&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF41&icon_color=00BFFF&text_color=FFFFFF&border_color=00FF41&hide_border=false"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raeed-khan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raeed-khan&layout=compact&theme=transparent&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00BFFF"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Raeed-khan&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Raeed-khan&theme=transparent&background=0D1117&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=AAAAAA&border=00FF41"/>
 
 </div>
 
 ---
 
-<h2 align="center">🎯 MY MISSION</h2>
+## 🎯 MY MISSION
 
 <div align="center">
 
-**LEARN • BUILD • SECURE • INNOVATE**
+<pre>
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       ⚡  LEARN                                  ║
+║       ⚡  BUILD                                  ║
+║       ⚡  SECURE                                 ║
+║       ⚡  INNOVATE                               ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+</pre>
 
-Promoting Cyber Awareness and contributing to a safer digital world.
+**Promoting Cyber Awareness and contributing to a safer digital world.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369A1,100:020617&height=120&section=footer"/>
+</div>
 
-**Developed by Raeed Khan | CEH**
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=THINK+BEYOND+LIMITS;BUILD+WITH+PURPOSE;SECURE+THE+DIGITAL+WORLD"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEVELOPED%20BY-RAEED%20KHAN-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CERTIFICATION-CEH-00BFFF?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
 
 `CWP25-1415021`
+
+**⚡ CYBERSECURITY • INNOVATION • DIGITAL SAFETY ⚡**
 
 </div>
